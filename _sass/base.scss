@@ -64,6 +64,18 @@ header {
   display: inline;
 }
 
+header .active {
+  color: #8653e8;
+  // color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.header-link:hover {
+  color: #8653e8;
+  // color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
 header h1 {
   font-size: 24px;
   line-height: 1.5;
