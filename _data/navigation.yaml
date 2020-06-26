@@ -1,0 +1,10 @@
+navs:
+
+- title: About
+  url: /about
+
+- title: Archive
+  url: /archive
+
+- title: RSS
+  url: /atom.xml
