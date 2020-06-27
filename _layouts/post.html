@@ -23,4 +23,6 @@ layout: default
   <hr>
   Posted by {{ site.author.name }} on <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   <hr>
+  <br>  
+{% include disqus.html %}
 </article>
